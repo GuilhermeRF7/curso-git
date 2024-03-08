@@ -1,0 +1,22 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 7b659b4..13ce5db 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -3,3 +3,4 @@[m [mdsdsadadasds[m
+ djjjjjjjjjjjjj[m
+ dsaaaaaaaaaaaa[m
+ wwwwwwwwwwwwww[m
+[32m+[m[32mkjslklçkdçsakçdksaçdkd[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 26c7fd4..283d88b 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -6,6 +6,6 @@[m
+     <title>Document</title>[m
+ </head>[m
+ <body>[m
+[31m-    oi,mundo![m
+[32m+[m[32m    oi,pessoal![m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
