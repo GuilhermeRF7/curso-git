@@ -1,6 +1,1 @@
-bkdlsdjkakkl
-dsdsadadasds
-djjjjjjjjjjjjj
-dsaaaaaaaaaaaa
-wwwwwwwwwwwwww
-kjslklçkdçsakçdksaçdkd
+dfhdjkskka45aaaaaaaaaaadd;git add .
